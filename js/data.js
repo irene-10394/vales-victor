@@ -238,7 +238,7 @@ const APP_DATA = {
                {
             id:"detalle_12",
             categoria:"detallitos",
-            titulo:"🌋 DOCTOR PIMPLE POPOER",
+            titulo:"🌋 DOCTOR PIMPLE POPPER",
             descripcion:"Te dejo reventarme los granos después de que te laves las manos",
             sellos:2
         },
