@@ -73,7 +73,7 @@ const APP_DATA = {
             id:"hogar_2",
             categoria:"hogar",
             titulo:"🧼 LIMPIEZA A FONDO: COCINA",
-            descripcion:"Incluye encimeras, armarios, interior de cajones y nevera, suelo…… ¡Todo, limpieza a fondo!.",
+            descripcion:"Incluye encimeras, armarios, interior de cajones y nevera, suelo…… ¡Todo, limpieza a fondo!",
             sellos:1
         },
 
@@ -97,7 +97,7 @@ const APP_DATA = {
             id:"hogar_5",
             categoria:"hogar",
             titulo:"🥣 CACHARROS COCINA",
-            descripcion:"Fregar ollas, sartenes, etc. Si aplica, ncluye poner el lavavajillas y sacarlo.",
+            descripcion:"Fregar ollas, sartenes, etc. Si aplica,incluye poner el lavavajillas y sacarlo.",
             sellos:2
         },
 
