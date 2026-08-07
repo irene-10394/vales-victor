@@ -227,6 +227,22 @@ const APP_DATA = {
             sellos:5
         },
 
+               {
+            id:"detalle_11",
+            categoria:"detallitos",
+            titulo:"💪🏻 WORK HARD, PLAY HARD",
+            descripcion:"¡Hoy toca hacer ejercicio! Correr juntos, o voy al gym (a máquinas o a nadar).",
+            sellos:5
+        },
+
+               {
+            id:"detalle_12",
+            categoria:"detallitos",
+            titulo:"🌋 DOCTOR PIMPLE POPOER",
+            descripcion:"Te dejo reventarme los granos después de que te laves las manos",
+            sellos:2
+        },
+
 
 
         /* ==================================================
